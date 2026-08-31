@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn==1.7.2
+category_encoders
+catboost
+joblib
+lightgbm
+category_encoders==2.10.0
+xgboost
+ 
